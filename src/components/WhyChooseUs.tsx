@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { UserCog, BarChartBig, Lightbulb, Zap } from "lucide-react"; // Added Zap for convenience
+import { UserCog, BarChartBig, Lightbulb } from "lucide-react"; // Added Zap for convenience
 
 const benefits = [
   {
